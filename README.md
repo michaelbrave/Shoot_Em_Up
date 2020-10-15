@@ -1,3 +1,4 @@
-# SHMUP_CPP
+# Shoot_Em_Up
 
-This was a group project done with Brock Pace https://github.com/brockcheese
+A simple Shoot Em Up game written in C++ using Ncurses. This was a weekend project that was done in collaboration with Brock Pace https://github.com/brockcheese. 
+
